@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: Helvetica;
-
+  
 }
 
 .heading {
@@ -16,6 +16,7 @@ nav {
   text-decoration: underline;
   font-size: 18px;
   line-height: 18px;
+
 }
 h2 {
   font-size: 32px;
@@ -30,4 +31,7 @@ p {
   background-image: url("../images/1.png");
   font-size: 23px;
   color: white;
+}
+.footer {
+  background-image: url("../images/1.png");
 }
