@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+
+}
+
+.Heading {
+  background-image: url("../images/1.png");
+}
+.heading h1 {
+  font-size: 70px;
+  color: white;
+}
+nav {
+  color: white;
+  text-decoration: underline;
+  font-size: 18px;
+
+
+}
