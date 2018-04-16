@@ -4,7 +4,7 @@ body {
 
 }
 
-.Heading {
+.heading {
   background-image: url("../images/1.png");
 }
 .heading h1 {
@@ -15,6 +15,7 @@ nav {
   color: white;
   text-decoration: underline;
   font-size: 18px;
+  line-height: 18px;
 }
 h2 {
   font-size: 32px;
@@ -24,4 +25,9 @@ h3 {
 }
 p {
   font-size: 14px;
+}
+.divider {
+  background-image: url("../images/1.png");
+  font-size: 23px;
+  color: white;
 }
